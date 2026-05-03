@@ -7,6 +7,11 @@ Features:
 - Dashboard Overview
 - Responsive UI
 
+## 🚀 Tech Stack
+- Frontend: React.js (JavaScript)
+- Backend: Flask (Python)
+- Database: MySQL
+  
 ## 📸 Screenshots
 
 ### Login Page
