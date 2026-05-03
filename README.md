@@ -6,3 +6,20 @@ Features:
 - View Student List
 - Dashboard Overview
 - Responsive UI
+
+## 📸 Screenshots
+
+### Login Page
+![Login](images/login.png)
+
+### Register Page
+![Register](images/register.png)
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Add Student
+![Add Student](images/add-student.png)
+
+### Student List
+![Student List](images/student-list.png)
